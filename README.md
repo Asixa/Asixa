@@ -8,4 +8,4 @@ I am currently more focused on research, and **I am looking for a Ph.D 2022 prog
 
 My research interests include **Computer Graphics**, **Internet of Things**, **Wireless Sensing**, and **Mobile Computing**.
 
-for my publications and more, visit www.xingyuchen.me
+for my publications and more, visit xingyuchen.me
