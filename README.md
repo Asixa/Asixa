@@ -2,9 +2,12 @@
 
 
 My name is **Xingyu chen | 陈星宇**.
-I am now a junior student at **the State University of New York at Buffalo**.
 
-I am currently more focused on research, and **I am looking for a Ph.D 2022 program** .
+I’m currently in gap year, **tseeking PhD opportunity**.
+
+I am an undergraduate research assistant advised by Professor [Wenyao Xu](http://www.cse.buffalo.edu/~wenyaoxu) at [UB ESC Group](http://www.cse.buffalo.edu/~wenyaoxu/esc.html), working closely with Professor [Zhengxiong Li](https://www.acsu.buffalo.edu/~zhengxio/) at [CU Denver](https://www.ucdenver.edu/). 
+
+I earned my bachelor's degree of computer science with honor from University at Buffalo in 3 years at 2021.
 
 My research interests include **Computer Graphics**, **Internet of Things**, **Wireless Sensing**, and **Mobile Computing**.
 
