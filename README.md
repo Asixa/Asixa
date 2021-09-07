@@ -5,7 +5,7 @@ My name is **Xingyu chen | 陈星宇**.
 
 I’m currently in gap year, **seeking PhD opportunity**.
 
-I am an undergraduate research assistant advised by Professor [Wenyao Xu](http://www.cse.buffalo.edu/~wenyaoxu) at [UB ESC Group](http://www.cse.buffalo.edu/~wenyaoxu/esc.html), working closely with Professor [Zhengxiong Li](https://www.acsu.buffalo.edu/~zhengxio/) at [CU Denver](https://www.ucdenver.edu/). 
+I am an undergraduate research assistant advised by Professor [Wenyao Xu](http://www.cse.buffalo.edu/~wenyaoxu) at [UB ESC Group](http://www.cse.buffalo.edu/~wenyaoxu/esc.html), and Professor [Zhengxiong Li](https://www.acsu.buffalo.edu/~zhengxio/) at [CU Denver](https://www.ucdenver.edu/). 
 
 I earned my bachelor's degree of computer science with honor from University at Buffalo in 3 years at 2021.
 
