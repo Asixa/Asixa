@@ -9,7 +9,7 @@ I am an undergraduate research assistant advised by Professor [Wenyao Xu](http:/
 
 I earned my bachelor's degree of computer science with honor from University at Buffalo in 3 years at 2021.
 
-My research interests include **Computer Graphics**, **Internet of Things**, **Wireless Sensing**, and **Mobile Computing**.
+My research interests include **Computer Graphics**, **Wireless Sensing**.
 
 for my publications and more, visit [xingyuchen.me](https://xingyuchen.me)
 
