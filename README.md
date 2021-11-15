@@ -9,7 +9,7 @@ I am an undergraduate research assistant advised by Professor [Wenyao Xu](http:/
 
 I earned my bachelor's degree of computer science with honor from University at Buffalo in 3 years at 2021.
 
-My research interests include **Computer Graphics (Physically Based Renderering, Inverse Simulation & Rendering, CG Domain-Specific Compilers) **, **Wireless Sensing (millimeter Waves)**.
+My research interests include **Computer Graphics (Physically Based Renderering, Inverse Simulation & Rendering, CG Domain-Specific Compilers)**, **Wireless Sensing (millimeter Waves)**.
 
 for my publications and more, visit [xingyuchen.me](https://xingyuchen.me)
 
