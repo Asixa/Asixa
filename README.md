@@ -13,7 +13,7 @@ My research interests include:\
 **Computer Graphics**:
 * Physically Based Renderering
 * Inverse Simulation & Rendering
-* CG Domain-Specific Compilers)
+* CG Domain-Specific Compilers
 
 **Wireless Sensing**：
 * millimeter Waves emerging applications
