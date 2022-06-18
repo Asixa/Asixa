@@ -5,9 +5,9 @@ My name is **Xingyu chen | 陈星宇**.
 
 
 
-I am an undergraduate research assistant advised by Professor [Wenyao Xu](http://www.cse.buffalo.edu/~wenyaoxu) at [UB ESC Group](http://www.cse.buffalo.edu/~wenyaoxu/esc.html), and Professor [Zhengxiong Li](https://www.acsu.buffalo.edu/~zhengxio/) at [CU Denver](https://www.ucdenver.edu/). 
+I’m a prospective Ph.D. student to begin study in the 2022 fall at UCSD. 
 
-I earned my bachelor's degree of computer science with honor from University at Buffalo in 3 years at 2021.
+I earned my bachelor's degree in computer science with honor from University at Buffalo in 3 years in 2021. I was a research assistant advised by Professor [Wenyao Xu](http://www.cse.buffalo.edu/~wenyaoxu) at [UB ESC Group](http://www.cse.buffalo.edu/~wenyaoxu/esc.html) during my undergraduate study. After graduation, I took a gap year and worked with Professor [Zhengxiong Li](https://www.acsu.buffalo.edu/~zhengxio/) at [CU Denver](https://www.ucdenver.edu/) META Lab.
 
 My research interests include:\
 **Computer Graphics**:
