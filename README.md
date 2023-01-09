@@ -5,7 +5,7 @@ My name is **Xingyu chen | 陈星宇**.
 
 
 
-I’m a first year Ph.D. student xat University of California San Diego (UCSD) advised by [Prof. Xinyu Zhang](http://xyzhang.ucsd.edu/). 
+I’m a first year Ph.D. student at University of California San Diego (UCSD) advised by [Prof. Xinyu Zhang](http://xyzhang.ucsd.edu/). 
 
 I earned my bachelor's degree in computer science with honor from University at Buffalo in 3 years in 2021. I was a research assistant advised by Professor [Wenyao Xu](http://www.cse.buffalo.edu/~wenyaoxu) at [UB ESC Group](http://www.cse.buffalo.edu/~wenyaoxu/esc.html) during my undergraduate study. After graduation, I took a gap year and worked with Professor [Zhengxiong Li](https://www.acsu.buffalo.edu/~zhengxio/) at [CU Denver](https://www.ucdenver.edu/) META Lab.
 
