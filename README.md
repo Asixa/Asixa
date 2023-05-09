@@ -31,4 +31,4 @@ for my publications and more, visit [xingyuchen.me](https://xingyuchen.me)
 [![Asixa's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asixa&layout=compact)](https://github.com/Asixa/)
 [![Asixa's github stats](https://github-readme-stats.vercel.app/api?username=asixa&count_private=true&show_icons=true&hide_rank=true)](https://github.com/Asixa/)
 
-
+![](https://count.getloli.com/get/@asixa?theme=asoul)
