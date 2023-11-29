@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is **Xingyu chen | 陈星宇**.
+My name is **Xingyu Chen | 陈星宇**.
 
 
 
