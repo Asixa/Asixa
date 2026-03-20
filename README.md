@@ -26,6 +26,10 @@ Previously, I interned at **Microsoft Research Asia** with [Prof. Lili Qiu](http
 | **SenSys 2023** | [RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data Synthesis](https://rfgen.xingyuchen.me/) |
 | **NDSS 2023** | [MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags](https://www.ndss-symposium.org/ndss-paper/metawave-attacking-mmwave-sensing-with-meta-material-enhanced-tags/) |
 
+### Open-Source Project
+
+**[WiTwin.AI](https://witwin.ai)** — An open-source platform for differentiable electromagnetic simulation and wireless digital twin. Creator & Developer.
+
 ### Selected Awards
 
 - ACM MobiSys 2025 Best Artifacts Honorable Mention
