@@ -18,7 +18,7 @@ Previously, I interned at **Microsoft Research Asia** with [Prof. Lili Qiu](http
 
 | Venue | Paper |
 |:------|:------|
-| **NSDI 2026** | Efficient and Resilient Sensor Data Delivery through Knowledge-Driven Communication |
+| **NSDI 2026** | From Bits to Tokens: Knowledge-Driven Generative Communication of Multimodal Data |
 | **MobiCom 2026** | [Physically Accurate Differentiable Inverse Rendering for Radio Frequency Digital Twin](https://arxiv.org/abs/2603.18026) |
 | **MobiSys 2025** | [You Only Render Once: Enhancing Energy and Computation Efficiency of Mobile Virtual Reality](https://arxiv.org/abs/2506.15183) |
 | **CVPR 2025** | [Radio Frequency Ray Tracing with Neural Object Representation](https://arxiv.org/abs/2411.18635) |
