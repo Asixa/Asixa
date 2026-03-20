@@ -12,7 +12,7 @@ I'm a Ph.D. student in Computer Science at **UC San Diego**, advised by [Prof. X
 
 My research bridges `Differentiable Rendering`, `Electromagnetic (RF) Simulation`, and `Wireless System Design` — targeting physically accurate channel modeling and next-generation `6G` wireless applications.
 
-Previously, I interned at **Microsoft Research Asia** with [Prof. Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/). Before joining UCSD, I worked at [META Lab](https://metalab.cs.ucdenver.edu/) (CU Denver) with [Prof. Zhengxiong Li](https://www.acsu.buffalo.edu/~zhengxio/). I earned my B.S. in Computer Science with honors from the **University at Buffalo** in 3 years (2021).
+Previously, I interned at **Microsoft Research Asia** with [Prof. Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/). Before joining UCSD, I worked at [META Lab](https://metalab.cs.ucdenver.edu/) (CU Denver) with [Prof. Zhengxiong Li](https://www.acsu.buffalo.edu/~zhengxio/). I earned my B.S. in Computer Science with honors from the **University at Buffalo** in 3 years (2021), where I was a research assistant at [ESC Group](http://www.cse.buffalo.edu/~wenyaoxu/esc.html) advised by [Prof. Wenyao Xu](http://www.cse.buffalo.edu/~wenyaoxu).
 
 ### Selected Publications
 
